@@ -1,2 +1,4 @@
 Hello
 Hello every one
+Hello every
+NewFile
